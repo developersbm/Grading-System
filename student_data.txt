@@ -1,0 +1,81 @@
+996633 
+Geraldine Grimm Y 6 
+CHEM 348 4 A 
+CSCI 201 4 B 
+HIST 101 3 A 
+ENGL 101 3 A 
+HIST 110 3 A 
+CSCI 220 4 B 
+
+123456 
+Bruce Wayne Y 5 
+CHEM 348 4 B 
+CSCI 201 4 B 
+MATH 345 4 A 
+ENGL 101 3 A 
+HIST 101 3 A 
+
+789456 
+Steven Rogers Y 3 
+CHEM 348 4 A 
+CSCI 201 4 B 
+HIST 101 3 A 
+
+145632 
+Clark Kent N 3 
+CSCI 201 4 B 
+HIST 101 3 A 
+BIOL 234 4 B 
+
+159753 
+Reed Richards Y 3 
+CHEM 348 4 B 
+MATH 345 4 B 
+ENGL 101 3 B 
+
+345678 
+Lex Luthor N 8 
+CSCI 201 4 A 
+HIST 101 3 A 
+BIOL 234 4 A 
+CSCI 205 4 A 
+CSCI 210 4 A 
+CSCI 215 4 B 
+CSCI 220 4 A 
+CSCI 225 4 A 
+
+645915 
+Benjamin Grimm Y 2 
+ENGL 348 4 A 
+CSCI 150 4 B 
+
+765345 
+Barbara Gordon N 3 
+CSCI 201 4 B 
+MATH 345 4 A 
+BIOL 234 4 A 
+
+324598 
+Alec Holland Y 3 
+CSCI 150 4 A 
+MATH 345 4 B 
+BIOL 234 4 A 
+
+654321 
+Peter Parker Y 4 
+CSCI 150 4 A 
+CHEM 348 4 A 
+ENGL 101 3 B 
+BIOL 234 4 A 
+
+445566 
+Reed Richards Y 3 
+CHEM 348 4 A 
+MATH 345 4 B 
+BIOL 234 4 A 
+
+112233 
+Kathleen Gray N 1 
+ENGL 101 3 D 
+
+0 
